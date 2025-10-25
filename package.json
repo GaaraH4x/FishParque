@@ -1,0 +1,22 @@
+{
+  "name": "fish-parque",
+  "version": "1.0.0",
+  "description": "Fish Parque ordering system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "fish",
+    "ordering"
+  ],
+  "author": "Fish Parque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
